@@ -1,0 +1,19 @@
+.background {
+    background-color: rgb(187, 79, 97);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+#two {
+    color: rgb(0, 50, 255);
+    font-size: 36px;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(0, 200, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
